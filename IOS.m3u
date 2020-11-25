@@ -1,0 +1,151 @@
+#EXTM3U SOCRAM TV IO
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Antena 3" tvg-logo="" group-title="",Antena 3
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/50.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/49.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CRIME&INVESTIGATION" tvg-logo="" group-title="",CRIME&INVESTIGATION
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/48.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="",COMEDY CENTRAL
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/45.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="" group-title="",AMC
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/47.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TOROS HD" tvg-logo="" group-title="",TOROS HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/29.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="" group-title="",TNT
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/16.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TAQ 6" tvg-logo="" group-title="",TAQ 6
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/8.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TAQ 5" tvg-logo="" group-title="",TAQ 5
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/9.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TAQ 4" tvg-logo="" group-title="",TAQ 4
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/10.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TAQ 3" tvg-logo="" group-title="",TAQ 3
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/11.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TAQ 2" tvg-logo="" group-title="",TAQ 2
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/12.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TAQ 1" tvg-logo="" group-title="",TAQ 1
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/13.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SYFY HD" tvg-logo="" group-title="",SYFY HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/17.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SERIES HD" tvg-logo="" group-title="",SERIES HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/21.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="",NATIONAL GEOGRAPHIC HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/26.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="",NAT GEO WILD HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/25.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV" tvg-logo="" group-title="",MTV
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/14.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOTOGP" tvg-logo="" group-title="",MOTOGP
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/31.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LIGA CAMPEONES" tvg-logo="" group-title="",LIGA CAMPEONES
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/38.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LA LIGA TV HD" tvg-logo="" group-title="",LA LIGA TV HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/37.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORIA HD" tvg-logo="" group-title="",HISTORIA HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/23.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLTV" tvg-logo="" group-title="",GOLTV
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/35.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLF HD" tvg-logo="" group-title="",GOLF HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/28.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX HD" tvg-logo="" group-title="",FOX HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/20.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FORMULA 1" tvg-logo="" group-title="",FORMULA 1
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/30.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT HD" tvg-logo="" group-title="",EUROSPORT HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/27.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESTRENOS HD" tvg-logo="" group-title="",ESTRENOS HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/43.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DRAMA" tvg-logo="" group-title="",DRAMA
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/42.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DMAX" tvg-logo="" group-title="",DMAX
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/24.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEPORTES HD" tvg-logo="" group-title="",DEPORTES HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/34.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDIA HD" tvg-logo="" group-title="",COMEDIA HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/40.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COCINA" tvg-logo="" group-title="",COCINA
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/15.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAZA Y PESCA" tvg-logo="" group-title="",CAZA Y PESCA
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/22.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CALLE 13" tvg-logo="" group-title="",CALLE 13
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/39.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORT HD" tvg-logo="" group-title="",BEIN SPORT HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/32.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN LA LIGA HD" tvg-logo="" group-title="",BEIN LA LIGA HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="",AXN WHITE HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/18.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN HD" tvg-logo="" group-title="",AXN HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/19.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ACCION HD" tvg-logo="" group-title="",ACCION HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/41.ts
+#EXTINF:-1,VAMOS
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/33.ts
+#EXTINF:-1,0 HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/44.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIAJAR HD" tvg-logo="" group-title="",VIAJAR HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/7.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TCM HD" tvg-logo="" group-title="",TCM HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/6.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DOC&ROLL HD" tvg-logo="" group-title="",DOC&ROLL HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/5.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A&E" tvg-logo="" group-title="",A&E
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/4.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HOLLYWOOD" tvg-logo="" group-title="",HOLLYWOOD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/3.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Bundesliga 2 HD" tvg-logo="" group-title="",Sky Sport Bundesliga 2 HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/1.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="" group-title="",Sky Sport Bundesliga 1 HD
+#EXTVLCOPT:http-user-agent=jimenl
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/2.ts
