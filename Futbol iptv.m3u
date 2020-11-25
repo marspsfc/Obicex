@@ -1,7 +1,7 @@
 #EXTM3U futbol iptv
 
 
-#EXTINF:-1 tvg-logo="https://www.sevillafc.es/sites/default/files/header/image/logo_sfc_0_0.jpg",3 je
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sevillafc.es/sites/default/files/header/image/logo_sfc_0_0.jpg" group-title="",3 jee
 https://hn2.gt-app.com/hls/i-LaLiga-i.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sevillafc.es/sites/default/files/header/image/logo_sfc_0_0.jpg",4 je
@@ -31,5 +31,8 @@ http://91.126.141.201:1935/live/eurosport1nntv/.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sevillafc.es/sites/default/files/header/image/logo_sfc_0_0.jpg",EUROSPORT 2
 http://91.126.141.201:1935/live/eurosport2hdnntv/.m3u8
+
+
+
 
 
