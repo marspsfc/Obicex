@@ -1,0 +1,15 @@
+#EXTM3U socramtv
+
+#EXTINF:-1,M.liga campeones
+
+https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/86_.m3u8
+
+#EXTINF:-1,M.liga
+https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/85_.m3u8
+
+#EXTINF:-1,1
+https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/84_.m3u8
+#EXTINF:-1,2
+https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/82_.m3u8
+#EXTINF:-1,3
+https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/81_.m3u8
