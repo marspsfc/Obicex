@@ -1,66 +1,53 @@
 #EXTM3U socramtv
 
-#EXTINF:-1,M.liga campeones
-
-https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/86_.m3u8
 
 #EXTINF:-1,M.liga
 https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/85_.m3u8
 
-#EXTINF:-1,prueba
-https://23.237.190.242:469/UltraLive/m34ldwwq3ULTRA/3243dwaf4443/85.m3u8
+#EXTINF:-1,M.liga
+https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/235_.m3u8
 
-#EXTINF:-1,1
-https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/84_.m3u8
-#EXTINF:-1,2
-https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/82_.m3u8
-#EXTINF:-1,3
-https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/81_.m3u8
-#EXTINF:-1,252
-https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/252_.m3u8
-#EXTINF:-1,M.Comedia
-https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/257_.m3u8
-#EXTINF:-1,M.Accion
-https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/256_.m3u8
-
-
-
-
-#EXTINF:-1, Cine ñ
-https://23.237.190.242:469/UltraLive/m34ldwwq3ULTRA/3243dwaf4443/260.m3u8
-
-#EXTINF:-1, Formula 1
-https://23.237.190.242:469/UltraLive/m34ldwwq3ULTRA/3243dwaf4443/311.m3u8
-
-#EXTINF:-1, Liga
+#EXTINF:-1,M.Liga
 https://23.237.190.242:469/UltraLive/m34ldwwq3ULTRA/3243dwaf4443/252.m3u8
 
-#EXTINF:-1, M.Accion
-https://23.237.190.242:469/UltraLive/m34ldwwq3ULTRA/3243dwaf4443/256.m3u8
+#EXTINF:-1,M.liga campeones
+https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/86_.m3u8
 
-#EXTINF:-1, M.Campeones
-https://23.237.190.242:469/UltraLive/m34ldwwq3ULTRA/3243dwaf4443/85.m3u8
-
-#EXTINF:-1, M.Comedia
-https://23.237.190.242:469/UltraLive/m34ldwwq3ULTRA/3243dwaf4443/257.m3u8
-
-#EXTINF:-1, M.Deportes
+#EXTINF:-1,M.Deportes
 https://23.237.190.242:469/UltraLive/m34ldwwq3ULTRA/3243dwaf4443/76.m3u8
 
-#EXTINF:-1, M.Drama
+#EXTINF:-1,Formula 1
+https://23.237.190.242:469/UltraLive/m34ldwwq3ULTRA/3243dwaf4443/311.m3u8
+
+
+#EXTINF:-1,Cine ñ
+https://23.237.190.242:469/UltraLive/m34ldwwq3ULTRA/3243dwaf4443/260.m3u8
+
+#EXTINF:-1,Vamos
+https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/304_.m3u8
+
+
+#EXTINF:-1,M.Accion
+https://23.237.190.242:469/UltraLive/m34ldwwq3ULTRA/3243dwaf4443/256.m3u8
+
+
+#EXTINF:-1,M.Comedia
+https://23.237.190.242:469/UltraLive/m34ldwwq3ULTRA/3243dwaf4443/257.m3u8
+
+
+#EXTINF:-1,M.Drama
 https://23.237.190.242:469/UltraLive/m34ldwwq3ULTRA/3243dwaf4443/258.m3u8
 
-#EXTINF:-1, M.Estrenos
+#EXTINF:-1,M.Estrenos
 https://23.237.190.242:469/UltraLive/m34ldwwq3ULTRA/3243dwaf4443/255.m3u8
 
-#EXTINF:-1, Series
+#EXTINF:-1,Series
 https://23.237.190.242:469/UltraLive/m34ldwwq3ULTRA/3243dwaf4443/261.m3u8
 
-#EXTINF:-1, Seriesmania
+#EXTINF:-1,Seriesmania
 https://23.237.190.242:469/UltraLive/m34ldwwq3ULTRA/3243dwaf4443/262.m3u8
 
-#EXTINF:-1, vamos
-https://live.budtv-ultra.com:934/m34ldwwq3ULTRA/3243dwaf4443/304_.m3u8
+
 
 
 
