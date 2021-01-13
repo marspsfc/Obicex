@@ -2,7 +2,7 @@
 	"name": "IPTV 1,
 	"author": "SOCRAMTV",
 	"image": "https://www.adslzone.net/app/uploads-adslzone.net/2020/05/movistar-plus-lite-paquete-cine.jpg",
-	"url": "https://rebrand.ly/DELACORATELEVISION1",
+	"url": "https://raw.githubusercontent.com/marspsfc/Obicex/main/w3u/iptv1.w3u",
 	"epg": "https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml",
 	"info": "Lista dedicada a los amigos del grupo del huerto de la cora",
 	"groups": [
