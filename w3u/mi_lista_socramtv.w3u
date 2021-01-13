@@ -1,0 +1,221 @@
+{"name":"                      PRUEBA MIA"  , 
+"author":"SOCRAMTV",
+"url":"http://SOCRAM.w3u",
+"image": "https://www.gsmspain.com/foros/attach/14/148013.gif","imageScale": "",
+"contact":"","info":"","groups": [
+
+
+
+
+
+{"logo":"♦♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️",
+"name": "WIGILIVI",
+"image": "",
+"stations":[
+
+
+
+ {"name": "wigilivi 1",
+"image": "https://fcrealmadrid.cubava.cu/files/2016/08/logo-LaLiga-265x300.png",
+"url": "https://wigilive.com/embed.php?id=live1 ",
+"isHost": true},
+
+ {"name": "wigilivi 2",
+"image": "https://fcrealmadrid.cubava.cu/files/2016/08/logo-LaLiga-265x300.png",
+"url": "https://wigilive.com/embed.php?id=live2 ",
+"isHost": true}
+
+
+
+]}
+
+
+
+
+
+,
+
+
+{"logo":"♦♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️",
+"name": "Dailysport",
+"image": "http://dondeverlo.com/img/logo-dondeverlo-s-print.gif","info":"",
+"imageScale": "","stations":[
+
+
+{"name": "Canal 1",
+"image": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/C4867E36-F6BB-4745-C51F0D64EFF5EB13.jpg",
+"url": "https://dailysport.cyou/c1.php",
+"isHost":"true"},
+
+{"name": "Canal 2",
+"image": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/C4867E36-F6BB-4745-C51F0D64EFF5EB13.jpg",
+"url": "https://dailysport.cyou/c2.php",
+"isHost":"true"}
+
+
+
+]}
+
+
+
+
+,
+
+
+{"logo":"♦♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️",
+"name": "SPORTZOLINE",
+"image": "https://fcrealmadrid.cubava.cu/files/2016/08/logo-LaLiga-265x300.png","info":"",
+"imageScale": "","stations":[
+
+
+
+{"name": "Canal 5",
+"image": "https://i2.wp.com/alimsports.com/wp-content/uploads/2017/02/Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg?fit=2920%2C1423",
+"url": "http://sportzonline.pw/channels/hd/hd5.php",
+"isHost": true},
+
+{"name": "Canal 6",
+"image": "https://i2.wp.com/alimsports.com/wp-content/uploads/2017/02/Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg?fit=2920%2C1423",
+"url": "http://sportzonline.pw/channels/hd/hd6.php",
+"isHost": true}
+
+
+]}
+
+
+
+
+
+
+
+,
+
+
+{"logo":"♦♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️",
+"name": "Listas Iptv",
+"image": "https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg","imageScale": "",
+"stations":[
+{"name": "Iptv 1",
+"image": "https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg",
+"url": "https://dl.dropboxusercontent.com/s/ma4i5j7v1nkjf37/canalp.m3u#.m3u","userAgent":"gannbv46","isHost": true},
+{"name": "Iptv 2",
+"image": "https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg",
+"url": "https://pastebin.com/raw/rRWettmj#.m3u","userAgent": "Lavf/57.83.100","isHost": true},
+{"name": "Iptv Latinos",
+"image": "https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg",
+"url": "https://pastebin.com/raw/SvHHCvWg#.m3u","userAgent": "exoplayer_video","isHost": true}
+]}
+
+
+
+
+
+
+,
+
+{"logo":"♦♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️",
+"name": "iraffletv",
+"image": "https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg","imageScale": "",
+"stations":[
+
+
+
+
+{"name": "iraffletv 1",
+"image": "https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg",
+"url": "https://iraffletv.com/embed/c1.php",
+"isHost": true},
+
+{"name": "iraffletv 2",
+"image": "https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg",
+"url": "https://iraffletv.com/embed/c2.php",
+"isHost": true},
+
+{"name": "iraffletv 3",
+"image": "https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg",
+"url": "https://iraffletv.com/embed/c3.php",
+"isHost": true}
+
+
+
+
+]}
+
+
+
+
+
+
+,
+
+
+{"logo":"♦♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️",
+"name": "c787898",
+"image": "https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg","imageScale": "",
+"stations":[
+
+
+
+
+{"name": "c787898 1",
+"image": "https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg",
+"url": "https://c787898.com/embed.php?id=live1",
+"isHost": true},
+
+{"name": "c787898 2",
+"image": "https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg",
+"url": "https://c787898.com/embed.php?id=live2",
+"isHost": true},
+
+{"name": "c787898 3",
+"image": "https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg",
+"url": "https://c787898.com/embed.php?id=live3",
+"isHost": true},
+
+{"name": "c787898 4",
+"image": "https://microsites.bournemouth.ac.uk/cippm/files/2018/12/IPTV.jpg",
+"url": "https://c787898.com/embed.php?id=live4",
+"isHost": true}
+
+
+
+
+]}
+
+
+,
+
+
+{"logo":"♦♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️",
+"name": "MOVISTAR",
+"image": "",
+"stations":[
+
+
+
+	{
+			"name": "MOVISTAR",
+			"image": "https://s03.s3c.es/imag/_v0/1800x900/c/4/b/490x_movistar-plus-2.jpg",
+			"url": "https://raw.githubusercontent.com/marspsfc/Obicex/main/w3u/iptv1.w3u",
+			"epg": "https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml",
+			
+		
+
+
+		}
+
+
+
+]}
+
+
+
+
+
+
+
+
+
+
+]}
+]}
