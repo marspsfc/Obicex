@@ -1,0 +1,599 @@
+{
+	"name": "IPTV 1,
+	"author": "SOCRAMTV",
+	"image": "https://www.adslzone.net/app/uploads-adslzone.net/2020/05/movistar-plus-lite-paquete-cine.jpg",
+	"url": "https://rebrand.ly/DELACORATELEVISION1",
+	"epg": "https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml",
+	"info": "Lista dedicada a los amigos del grupo del huerto de la cora",
+	"groups": [
+
+		{
+                        "name": "CINE",
+			"image": "https://media.giphy.com/media/ygCIuqxAMT2WWTjXA8/giphy.gif",
+			"stations": [
+
+				{
+					"name": "#0",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/44.ts",
+					"image": "http://static.wixstatic.com/media/150734_36a3a99d73904ce1acd08dba3ee20607~mv2.png?dn=#0.png",
+					"epgId": "#0 HD"
+				},
+				{
+					"name": "Estrenos",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/43.ts",
+					"image": "http://static.wixstatic.com/media/150734_e399c758494747fa80082b36f4ea0a4b~mv2.png?dn=estrenos.png",
+					"epgId": "M.ESTRENOS HD"
+				},
+				{
+					"name": "Drama",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/42.ts",
+					"image": "http://static.wixstatic.com/media/150734_1d3ecfb0326642a39790a6f2fa1fe9d5~mv2.png?dn=dcine.png",
+					"epgId": "M. DRAMA HD"
+				},
+				{
+					"name": "Accion",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/41.ts",
+					"image": "http://static.wixstatic.com/media/150734_3be4facab9594b7cbaa21058cf21758d~mv2.png?dn=accion.png",
+					"epgId": "M. ACCION HD"
+				},
+				{
+					"name": "Comedia",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/40.ts",
+					"image": "http://static.wixstatic.com/media/150734_11fc5e2e7fe74e6f9f6926fd26cf31a9~mv2.png?dn=comedia.png",
+					"epgId": "M.COMEDIA HD"
+				},
+				{
+					"name": "HOLLYWOOD",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/3.ts",
+					"image": "https://static.wixstatic.com/media/150734_b6014310d44d484ba9ca054c11e6e5c3~mv2.png/v1/fill/w_250,h_250,al_c/150734_b6014310d44d484ba9ca054c11e6e5c3~mv2.png",
+					"epgId": "HOLLYWOOD HD"
+				},
+				{
+					"name": "AXN WHITE",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/18.ts",
+					"image": "https://static.wixstatic.com/media/150734_50c578b7d04941e696a9936ac0276d52~mv2.png/v1/fill/w_250,h_250,al_c/150734_50c578b7d04941e696a9936ac0276d52~mv2.png",
+					"epgId": "AXN WHITE HD"
+				},
+				{
+					"name": "DOC&ROLL",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/5.ts",
+					"image": "https://static.wixstatic.com/media/150734_c3004c1f899646e9bac90cbca1bbd6bc~mv2.png",
+					"epgId": "M.CineDocRoll"
+				},
+				{
+					"name": "SOMOS",
+					"userAgent": "LuPlayer",
+					"url": "https://rebrand.ly/DELACORASOMOS",
+					"image": "https://i.imgur.com/Al7F35n.jpg",
+					"epgId": "Somos"
+				}
+
+			]
+		},
+		{
+			"name": "SERIES",
+			"image": "https://media.giphy.com/media/1ykEivDD8mJEpMHqD5/giphy.gif",
+			"stations": [
+
+				{
+					"name": "Series",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/21.ts",
+					"image": "https://static.wixstatic.com/media/150734_a43e40cfb3e147e790385ede3deb12b7~mv2.png?dn=series.png",
+					"epgId": "M. SERIES HD"
+				},
+				{
+					"name": "Fox",
+					"userAgent": "",
+					"url": "http://51.178.65.221:25465/live/5dd172199b204fe38877d12152154348/428ac7b7ea494941b057269d5a92dbba/164.m3u8",
+					"image": "https://static.wixstatic.com/media/150734_e0359d87a7df4ebfa87667dc3fbccf48~mv2.png?dn=fox.png",
+					"epgId": "FOX HD"
+				},
+				{
+					"name": "Fox Life",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/37.ts",
+					"image": "https://static.wixstatic.com/media/150734_ca44179f7d684ab7ae7f4143717b66de~mv2.png?dn=fox+life.png",
+					"epgId": "FOX LIFE HD"
+				},
+				{
+					"name": "AXN",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/19.ts",
+					"image": "https://static.wixstatic.com/media/150734_09845675a5344807b7d441eebe76dc88~mv2.png?dn=axn.png",
+					"epgId": "AXN HD"
+				},
+				{
+					"name": "TNT",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/16.ts",
+					"image": "https://static.wixstatic.com/media/150734_01586cbfe4cf497787a621e6d4bf02c6~mv2.png?dn=tnt.png",
+					"epgId": "TNT HD"
+				},
+				{
+					"name": "A3SERIES FHD",
+					"userAgent": "ExoPlayer2/3.0 (Linux;Android 9) ExoPlayerLib/2.10.6",
+					"url": "http://s3linkgapp.net:25461/qv4ru9uwd9/Descarga-Desde-PlayStore-GnulaGo-Lite-GRATIS/16714",
+					"image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/atreseries.jpg",
+					"epgId": "Atreseries HD"
+				},
+				{
+					"name": "CALLE 13",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/39.ts",
+					"image": "http://tv.trexiptv.com:8000/picons/logos/calle13hd.png",
+					"epgId": "CALLE 13 HD"
+				},
+				{
+					"name": "TCM",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/6.ts",
+					"image": "https://static.wixstatic.com/media/150734_cf378743995b4329a0460928a218802a~mv2.png",
+					"epgId": "TCM HD"
+				},
+				{
+					"name": "SYFY",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/17.ts",
+					"image": "http://panel.audioplayercast.online/uploads/cache/channel_thumb/uploads/jpg/b09c49feae777370895e40ca274931fd.jpg",
+					"epgId": "SYFY HD"
+				},
+				{
+					"name": "AMC",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/47.ts",
+					"image": "http://panel.audioplayercast.online/uploads/cache/channel_thumb/uploads/jpg/218949882afbba9b3fb3d63a5cd9249f.jpg",
+					"epgId": "AMC HD"
+				},
+				{
+					"name": "COMEDY CENTRAL",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/45.ts",
+					"image": "http://panel.audioplayercast.online/uploads/cache/channel_thumb/uploads/jpg/9a2bfd933f3b93360b587c2eb7cb1aee.jpg",
+					"epgId": "COMEDYCENTRAL HD"
+				}
+
+
+			]
+		},
+		{
+			"name": "DOCUMENTALES",
+			"image": "https://media.giphy.com/media/FE6Cmn08kcjXEBUCAn/giphy.gif",
+			"stations": [
+
+				{
+					"name": "National Geographic",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/26.ts",
+					"image": "https://static.wixstatic.com/media/150734_1d2f750f1b0a4720922e81919f7e6a27~mv2.png?dn=national+geographic.png",
+					"epgId": "NAT GEO HD"
+				},
+				{
+					"name": "Nat Geo Wild",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/25.ts",
+					"image": "https://static.wixstatic.com/media/150734_2d1f88a523bf497085eba849eb5241ac~mv2.png?dn=nat+geo+wild.png",
+					"epgId": "NAT GEO WILD"
+				},
+				{
+					"name": "DMax",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/24.ts",
+					"image": "https://static.wixstatic.com/media/150734_4d8ccd4ba00d46eab9f64c80c24589cc~mv2.png?dn=dmax.png",
+					"epgId": "Discovery MAX"
+				},
+				{
+					"name": "Historia",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/23.ts",
+					"image": "https://static.wixstatic.com/media/150734_0cfe171ac9fb4c61a761803de21ca645~mv2.png?dn=historia.png",
+					"epgId": "HISTORIA"
+				},
+				{
+					"name": "Caza y Pesca",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/22.ts",
+					"image": "https://static.wixstatic.com/media/150734_b0685a625ad7458d98cbe13fa3e51826~mv2.png?dn=caza+y+pesca.png",
+					"epgId": "CAZAyPESCA HD"
+				},
+				{
+					"name": "CAZAVISION",
+					"userAgent": "ExoPlayer2/3.0 (Linux;Android 9) ExoPlayerLib/2.10.6",
+					"url": "https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8",
+					"image": "https://tv.orange.es/UpImages/3556/cazavision_logo_canal_4cf174486e9e1c4a6ec1c2f6d.png",
+					"epgId": "Cazavision"
+				},
+				{
+					"name": "COSMO",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/40.ts",
+					"image": "https://static.wixstatic.com/media/150734_b571285b6fb1428bb6c6cee712c68aa1~mv2.png/v1/fill/w_250,h_250,al_c/150734_b571285b6fb1428bb6c6cee712c68aa1~mv2.png",
+					"epgId": "COSMO HD"
+				},
+				{
+					"name": "VIAJAR",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/7.ts",
+					"image": "http://www.frocus.net/images/logotv/original/Viajar-HD.jpg",
+					"epgId": "VIAJAR HD"
+				},
+                                                         {
+					"name": "TRAVEL HD",
+					"userAgent": "",
+					"url": "http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8",
+					"image": "https://i0.pngocean.com/files/281/674/379/logo-travel-channel-brand-television-channel-travel-city.jpg",
+					"epgId": "TRAVEL HD"
+				},
+				{
+					"name": "COCINA",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/15.ts",
+					"image": "http://tv.trexiptv.com:8000/picons/logos/canalcocina.png",
+					"epgId": "CANAL COCINA"
+				},
+				{
+					"name": " CANAL SUR COCINA",
+					"url": "https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8",
+					"image": "https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-Sur-Cocina-324x235.png",
+					"epgId": ""
+				},
+				{
+
+
+					"name": " DECASA HD",
+					"userAgent": "LuPlayer",
+					"url": "https://rebrand.ly/HUERTO-DE-LA-CORA-DECASA",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Decasa.png",
+					"epgId": "CANAL DECASA"
+				},
+				{
+
+
+					"name": "A&E",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/4.ts",
+					"image": "https://static.wixstatic.com/media/150734_4e5b01662f594b2d8c2148425cc174d9~mv2.png",
+					"epgId": ""
+				},
+				{
+
+
+					"name": "DMAS",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/24.ts",
+					"image": "https://static.wixstatic.com/media/150734_4d8ccd4ba00d46eab9f64c80c24589cc~mv2.png",
+					"epgId": ""
+				},
+				{
+
+
+					"name": "CRIMEN & IVESTIGACIÓN",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/48.ts",
+					"image": "http://panel.audioplayercast.online/uploads/cache/channel_thumb/uploads/jpg/84719f46903967781847fccac30ef0f6.jpg",
+					"epgId": "CRIMEN+INVES"
+				}
+			]
+		},
+		{
+			"name": "DEPORTE",
+			"image": "https://media.giphy.com/media/LXxm1cHpysTxm0IdPs/giphy.gif",
+			"stations": [
+
+				{
+					"name": "21:00 barça x napoli",
+					"userAgent": "",
+					"image": "https://i.imgur.com/qMhQ2J5.jpg",
+					"epgId": "LALIGATV BAR",
+					"url": "http://assia.tv/live2/mix-sport20/?lang=es",
+					"isHost": true
+				},{
+					"name": "21:00 barça x napoli",
+					"userAgent": "",
+					"image": "https://i.imgur.com/qMhQ2J5.jpg",
+					"epgId": "LALIGATV BAR",
+					"url": "https://rebrand.ly/DELYCORA1",
+					"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+					"referer": "",
+					"isHost": true
+					
+				},{
+					"name": "21:00 barça x napoli",
+					"userAgent": "",
+					"image": "https://i.imgur.com/qMhQ2J5.jpg",
+					"epgId": "LALIGATV BAR",
+					"url": "http://assia.tv/live2/mix-sport12/?lang=es",
+					"isHost": true
+				},
+                                {
+					"name": "La Liga TV",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/37.ts",
+					"image": "https://static.wixstatic.com/media/150734_ebc603c04db745e6832355217009a6b4~mv2.png?dn=la+liga.png",
+					"epgId": "LALIGATV BAR"
+				},
+				{
+					"name": "Bein Sport La Liga",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts",
+					"image": "https://static.wixstatic.com/media/150734_532c77ce9ac149d2a297e6c1098aca63~mv2.png?dn=bein+la+liga.png",
+					"epgId": ""
+				},
+				{
+					"name": "GOLTV",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/35.ts",
+					"image": "https://static.wixstatic.com/media/150734_cb97d3de3d664c8089bb8b6df6270645~mv2.png?dn=golt.png",
+					"epgId": "GOL"
+				},
+				{
+					"name": "Deportes HD",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/34.ts",
+					"image": "https://static.wixstatic.com/media/150734_3964025188584e399c985ea69a4997c4~mv2.png?dn=deportes.png",
+					"epgId": "M. DEPORTES"
+				},
+				{
+					"name": "Deportes 2 HD",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/19.ts",
+					"image": "https://static.wixstatic.com/media/150734_0cf4fab6e4124aa09c2e493c5dcb2e9e~mv2.png?dn=deportes+2.png",
+					"epgId": "M.DEPORTES 1 HD"
+				},
+				{
+					"name": "Fútbol HD",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/20.ts",
+					"image": "https://static.wixstatic.com/media/150734_c55af12e8f8f4caeaeae5fe51c22e6eb~mv2.png?dn=futbol.png",
+					"epgId": ""
+				},
+				{
+					"name": "Bein Sport HD",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/32.ts",
+					"image": "https://static.wixstatic.com/media/150734_ec917a4c011e4a18b5fb90cf8519c089~mv2.png?dn=bein+sport.png",
+					"epgId": ""
+
+				},
+				{
+					"name": "Moto GP",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/31.ts",
+					"image": "https://static.wixstatic.com/media/150734_6c654bbe68cf4596a8273e5c42329ab1~mv2.png?dn=motogp.png",
+					"epgId": ""
+				},
+				{
+					"name": "Moto GP HD",
+					"userAgent": "",
+					"url": "https://rebrand.ly/DELACORA-MOTOGP",
+					"image": "https://i.imgur.com/2pBHAeu.jpg",
+					"epgId": ""
+				},
+				{
+					"name": "Formula 1",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/30.ts",
+					"image": "https://static.wixstatic.com/media/150734_016572fa85854abcb8679f5e75ca9132~mv2.png?dn=f1.png",
+					"epgId": "M.FORMULA1 HD"
+				},
+				{
+					"name": "Golf",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/28.ts",
+					"image": "https://static.wixstatic.com/media/150734_88630dfd45424e2883703dd7704e5bc2~mv2.png?dn=golf.png",
+					"epgId": "M. GOLF HD"
+				},
+				{
+					"name": "Barça HD",
+					"userAgent": "VLC player",
+					"url": "https://rebrand.ly/DELACORABARCA",
+					"image": "https://static.wixstatic.com/media/150734_46368b7198264b53acf430e7d7708e3a~mv2.png?dn=barza+tv.png",
+					"epgId": "BARCA TV"
+				},
+				{
+					"name": "Eurosport HD",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/27.ts",
+					"image": "https://static.wixstatic.com/media/150734_41af9f246ac74019ae53af481980096f~mv2.png?dn=eurosport.png",
+					"epgId": "EUROSPORT1"
+				},
+				{
+					"name": "Eurosport HD 2",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/49.ts",
+					"image": "https://static.wixstatic.com/media/150734_41af9f246ac74019ae53af481980096f~mv2.png?dn=eurosport.png",
+					"epgId": "EUROSPORT 2"
+				},
+				{
+					"name": "Teledeporte",
+					"userAgent": "ExoPlayer2/3.0 (Linux;Android 9) ExoPlayerLib/2.10.6",
+					"url": "http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8",
+					"image": "https://i2.bssl.es/altaspulsaciones//2012/02/Teledeporte-636x500.jpg",
+					"epgId": "TELEDEPORTE"
+				},
+				{
+					"name": "VAMOS",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/33.ts",
+					"image": "http://tv.trexiptv.com:8000/picons/logos/vamos.png",
+					"epgId": "#VAMOS HD"
+				},
+				{
+					"name": "LIGA DE CAMPEONES",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/38.ts",
+					"image": "https://www.mundoplus.tv/img/918cecdaa24ade367ddf74721b08f9eb",
+					"epgId": "M.LCAMPEONES"
+				},
+				{
+					"name": "Sky Sport Bundesliga 1",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/2.ts",
+					"image": "http://panel.audioplayercast.online/uploads/cache/channel_thumb/uploads/jpg/099d25d09f14b8908b635440998a3543.jpg",
+					"epgId": ""
+				},
+				{
+					"name": "Sky Sport Bundesliga 2",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/1.ts",
+					"image": "http://panel.audioplayercast.online/uploads/cache/channel_thumb/uploads/jpg/363cd8a2e12129513b374d263d7964ea.jpg",
+					"epgId": ""
+				},
+				{
+					"name": "DAZN EVENTOS",
+					"userAgent": "",
+					"url": "https://adictosaldeporte.com/TV/deportes/motogp/",
+                                        "isHost": "true",
+					"image": "https://i.imgur.com/vI7tlVO.jpg",
+					"epgId": ""
+				},
+				{
+					"name": "DAZN EVENTOS",
+					"userAgent": "",
+					"url": "https://adictosaldeporte.com/TV/deportes/dazn/",
+                                        "isHost": "true",
+					"image": "https://i.imgur.com/jnSkLU1.jpg",
+					"epgId": ""
+				},
+				{
+					"name": "ESPN EVENTOS",
+					"userAgent": "",
+					"url": "https://adictosaldeporte.com/ver-espn-en-vivo-24h/",
+                                        "isHost": "true",
+					"image": "https://pbs.twimg.com/profile_images/582572657742356480/Gn1ZL-nx.jpg",
+					"epgId": ""
+				},
+				{
+					"name": "ESPN EVENTOS",
+					"userAgent": "",
+					"url": "http://adictosaldeporte.com/TV/deportes/espn1ar/",
+                                        "isHost": "true",
+					"image": "https://pbs.twimg.com/profile_images/582572657742356480/Gn1ZL-nx.jpg",
+					"epgId": ""
+				},
+				{
+					"name": "ESPN EVENTOS FHD",
+					"userAgent": "Mozilla/5.0 (Linux; Android 9; Redmi 7 Build/PKQ1.181021.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/84.0.4147.89 Mobile Safari/537.36",
+					"url": "https://rebrand.ly/DELACORAESPN",
+                                        "isHost": "",
+					"image": "https://pbs.twimg.com/profile_images/582572657742356480/Gn1ZL-nx.jpg",
+					"epgId": ""
+				},
+				{
+					"name": "Formula 1",
+					"userAgent": "",
+					"url": "https://adictosaldeporte.com/ver-la-formula-1-online-y-en-directo-gratis-24h/#",
+                                        "isHost": "true",
+					"image": "https://static.wixstatic.com/media/150734_016572fa85854abcb8679f5e75ca9132~mv2.png?dn=f1.png",
+					"epgId": "M.FORMULA1 HD"
+				},
+				{
+					"name": "FORMULA 1",
+					"userAgent": "",
+					"url": "https://rebrand.ly/DELYCORA1",
+                                        "isHost": "true",
+					"image": "https://static.wixstatic.com/media/150734_016572fa85854abcb8679f5e75ca9132~mv2.png?dn=f1.png",
+					"epgId": "M.FORMULA1 HD"
+				}
+
+			]
+		},
+		{
+			"name": "INFANTILES",
+			"image": "https://media.giphy.com/media/9Pgp04ndKNbOFnyUtO/giphy.gif",
+			"stations": [
+
+
+				{
+					"name": "Boing",
+					"userAgent": "ExoPlayer2/3.0 (Linux;Android 9) ExoPlayerLib/2.10.6",
+					"url": "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8",
+					"image": "http://crawler.mdcgate.com/iptv/logo/2177.png",
+					"epgId": "BOING"
+				},
+				{
+					"name": "Disney Channel",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/42.ts",
+					"image": "https://static.wixstatic.com/media/150734_3adbe5de15224b608997931b0c9b9fad~mv2.png?dn=disney+channel.png",
+					"epgId": "DISNEY CH HD"
+				},
+				{
+					"name": "Disney Junior",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/43.ts",
+					"image": "https://static.wixstatic.com/media/150734_6adb28672a12469e9ef4c981a59a2ce3~mv2.png?dn=disney+junior.png",
+					"epgId": "DISNEY JR"
+				},
+				{
+					"name": "Nickelodeon",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/44.ts",
+					"image": "https://static.wixstatic.com/media/150734_a7de19252a2a4ab886d91224e0dc30a7~mv2.png?dn=nickelodeon.png",
+					"epgId": "NICKELODEON HD"
+				}
+
+			]
+		},
+		{
+			"name": " TAQUILLAS ",
+			"image": "https://media.giphy.com/media/UovgxzaGKCoMReh4Qx/giphy.gif",
+			"stations": [
+
+				{
+					"name": "TAQUILLA 1",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/13.ts",
+					"image": "https://i.imgur.com/hQ1fzvd.jpg",
+					"epgId": ""
+				},
+				{
+					"name": "TAQUILLA 2",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/12.ts",
+					"image": "https://i.imgur.com/CGt5SMY.jpg",
+					"epgId": ""
+				},
+				{
+					"name": "TAQUILLA 3",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/11.ts",
+					"image": "https://i.imgur.com/BEWA0iV.jpg",
+					"epgId": ""
+
+				},
+				{
+					"name": "TAQUILLA 4",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/10.ts",
+					"image": "https://i.imgur.com/XDXECu4.jpg",
+					"epgId": ""
+				},
+				{
+					"name": "TAQUILLA 5",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/9.ts",
+					"image": "https://i.imgur.com/8Y8cpOG.jpg",
+					"epgId": ""
+				},
+				{
+					"name": "TAQUILLA 6",
+					"userAgent": "gannbv46",
+					"url": "http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/8.ts",
+					"image": "https://i.imgur.com/WMxthSS.jpg",
+					"epgId": ""
+				}
+
+
+			]
+		}
+	]
+}
