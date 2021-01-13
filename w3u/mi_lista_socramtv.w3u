@@ -193,16 +193,11 @@
 
 
 
-	{
-			"name": "MOVISTAR",
-			"image": "https://s03.s3c.es/imag/_v0/1800x900/c/4/b/490x_movistar-plus-2.jpg",
-			"url": "https://raw.githubusercontent.com/marspsfc/Obicex/main/w3u/iptv1.w3u",
-			"epg": "https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml",
-			
-		
-
-
-		}
+{
+"name": "MOVISTAR",
+"image": "https://s03.s3c.es/imag/_v0/1800x900/c/4/b/490x_movistar-plus-2.jpg",
+"url": "https://raw.githubusercontent.com/marspsfc/Obicex/main/w3u/iptv1.w3u",
+"epg": "https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml",}
 
 
 
@@ -217,5 +212,4 @@
 
 
 
-]}
-]}
+
